@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif"  />
 
 ###
 
