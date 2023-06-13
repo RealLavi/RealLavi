@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <a href="https://media.tenor.com/TJicZOwgagUAAAAC/its-not-ready-yet-leonardo-da-vinci.gif" target="_blank" rel="noopener noreferrer"/>
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="www.wa.me/+573183586583" target="_blank" rel="noopener noreferrer"/>
+  <a href="https://wa.me/+573183586583" target="_blank" rel="noopener noreferrer"/>
    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <a href="https://www.youtube.com/@Lavi1" target="_blank" rel="noopener noreferrer" />
    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
