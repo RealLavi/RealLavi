@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/849268231813726239" target="_blank" rel="noopener noreferrer"/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" target="_blank" rel="noopener noreferrer">
   <a href="https://www.facebook.com/fckinglavi" target="_blank" rel="noopener noreferrer"/>
    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <a href="mailto:dagomez123456789@yahoo.com" target="_blank" rel="noopener noreferrer"/>
