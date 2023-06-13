@@ -61,6 +61,6 @@
    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <a href="https://www.youtube.com/@Lavi1" target="_blank" rel="noopener noreferrer" />
    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://media.tenor.com/TJicZOwgagUAAAAC/its-not-ready-yet-leonardo-da-vinci.gif" target="_blank" rel="noopener noreferrer"/>
-   ><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <a href="https://media.tenor.com/TJicZOwgagUAAAAC/its-not-ready-yet-leonardo-da-vinci.gif"/>
+   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
 </div>
