@@ -3,11 +3,16 @@
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif"  />
+<style>
+.noClick{
+  pointer-events: none;
+}  
+</style>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ableton" height="50" alt="Ableton Live"  style="pointer-events: none;"/>
+  <img src="https://skillicons.dev/icons?i=ableton" height="50" alt="Ableton Live" class="noClick"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=au" height="50" alt="Adobe Audition"  />
   <img width="12" />
