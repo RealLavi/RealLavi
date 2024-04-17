@@ -2,46 +2,46 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ableton" height="30" alt="abletonlive logo"  />
+  <img src="https://skillicons.dev/icons?i=ableton" height="30" alt="Ableton Live"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="30" alt="adobeaudition logo"  />
+  <img src="https://skillicons.dev/icons?i=au" height="30" alt="Adobe Audition"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Adobe Photoshop"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="Arduino"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="C"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C#"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="Discord"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="Dot Net"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJs"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="Visual Studio"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="Visual Studio Code"  />
 </div>
 
 ###
