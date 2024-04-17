@@ -78,19 +78,19 @@
 <br>
   <div align="center">
   <a href="https://discord.com/users/849268231813726239" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=7289DA" height="35" alt="discord logo">
   <a href="https://www.facebook.com/fckinglavi" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=1877F2" height="35" alt="facebook logo" />
   <a href="mailto:dagomez123456789@yahoo.com" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=D14836" height="35" alt="gmail logo" />
   <a href="https://www.instagram.com/fuckinglavi/" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <a href="https://media.tenor.com/TJicZOwgagUAAAAC/its-not-ready-yet-leonardo-da-vinci.gif" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <a href="https://wa.me/+573183586583" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  <a href="https://www.youtube.com/@Lavi1" target="_blank" rel="noopener noreferrer" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=E4405F" height="35" alt="instagram logo" />
   <a href="https://media.tenor.com/TJicZOwgagUAAAAC/its-not-ready-yet-leonardo-da-vinci.gif" />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0077B5" height="35" alt="linkedin logo" />
+  <a href="https://wa.me/+573183586583" target="_blank" rel="noopener noreferrer" />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=25D366" height="35" alt="whatsapp logo" />
+  <a href="https://www.youtube.com/@Lavi1" target="_blank" rel="noopener noreferrer" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=FF0000" height="35" alt="youtube logo" />
+  <a href="https://media.tenor.com/TJicZOwgagUAAAAC/its-not-ready-yet-leonardo-da-vinci.gif" />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=4A154B" height="35" alt="slack logo" />
 </div>
