@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ableton" height="50" alt="Ableton Live"  />
+  <img src="https://skillicons.dev/icons?i=ableton" height="50" alt="Ableton Live"  style="pointer-events: none;"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=au" height="50" alt="Adobe Audition"  />
   <img width="12" />
