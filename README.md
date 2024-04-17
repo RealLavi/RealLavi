@@ -1,13 +1,8 @@
 <h2 align="center">¡Holaaa 👋! Mi nombre es David Gómez y soy un desarrollador colombiano al cual le gusta aprender e intentar cosas nuevas.</h2>
-
+<picture>
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif"  />
-<style>
-.noClick{
-  pointer-events: none;
-}  
-</style>
 
 ###
 
@@ -48,6 +43,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Visual Studio Code"  />
 </div>
+
+</picture>
 
 ###
 
